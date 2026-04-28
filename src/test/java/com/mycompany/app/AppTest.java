@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Hello GWNG!", app.getMessage());
+        assertEquals("Hello Maven!", app.getMessage());
     }
 }
